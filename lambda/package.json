@@ -1,0 +1,28 @@
+{
+    "name": "hello-world-demo-skill",
+    "version": "2.0.0",
+    "description": "Hello World (with Controls) Demonstration Skill",
+    "main": "index.js",
+    "scripts": {
+        "test": "node_modules/mocha/bin/_mocha \"test/**/*.js\"",
+        "reinstall": "rm -rf ./node_modules && npm install",
+        "lint": "eslint 'src/**/*.{js,ts,tsx}' 'test/**/*.{js,ts,tsx}'"
+    },
+    "dependencies": {
+        "ask-sdk-core": "^2.8.0",
+        "ask-sdk-model": "^1.28.0",
+        "lodash": "^4.17.15",
+        "ask-sdk-controls": "^0.2.0"
+    },
+    "devDependencies": {
+        "@types/chai": "^4.2.8",
+        "@types/lodash": "^4.14.149",
+        "chai": "^4.2.0",
+        "eslint": "^6.8.0",
+        "mocha": "^6.2.2",
+        "sinon": "^9.0.1",
+        "source-map-support": "^0.5.16"
+    },
+    "author": "Amazon.com",
+    "license": "SEE LICENSE IN license.md"
+}

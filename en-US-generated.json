@@ -1,0 +1,30 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "types": [],
+      "intents": [
+        {
+          "name": "AMAZON.StopIntent"
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent"
+        },
+        {
+          "name": "AMAZON.HelpIntent"
+        },
+        {
+          "name": "AMAZON.CancelIntent"
+        },
+        {
+          "name": "HelloIntent",
+          "samples": [
+            "Say hello",
+            "Say hi"
+          ]
+        }
+      ],
+      "invocationName": "hello controls"
+    },
+    "prompts": []
+  }
+}
