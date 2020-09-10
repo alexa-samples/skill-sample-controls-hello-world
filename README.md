@@ -9,11 +9,9 @@ The front end is the voice interface, or VUI.
 The voice interface is configured through the voice interaction model.
 The back end is where the logic of your skill resides.
 
-## Three Options for Skill Setup
-There are a number of different ways for you to setup your skill, depending on your experience and what tools you have available.
+## Skill Setup
 
- * If this is your first skill, choose the [Alexa-Hosted backend instructions](./instructions/setup-vui-alexa-hosted.md) to get started quickly.
- * Developers with the ASK Command Line Interface configured may follow the [ASK CLI instructions](./instructions/cli.md).
+[Install the ASK CLI](https://developer.amazon.com/en-US/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html) and then follow the [ASK CLI instructions](./instructions/cli.md) to set up this skill.
 
 ---
 
