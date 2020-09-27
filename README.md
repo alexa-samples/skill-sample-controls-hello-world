@@ -13,6 +13,10 @@ The back end is where the logic of your skill resides.
 
 [Install the ASK CLI](https://developer.amazon.com/en-US/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html) and then follow the [ASK CLI instructions](./instructions/cli.md) to set up this skill.
 
+## Skill Guide
+
+Explore this Hello World skill in detail by reviewing our [user guide](https://github.com/alexa/ask-sdk-controls/blob/develop/doc/userGuide.md#3-exploring-the-helloworld-controls-skill).
+
 ---
 
 ## Additional Resources
